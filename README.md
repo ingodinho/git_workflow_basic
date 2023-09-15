@@ -5,7 +5,7 @@ Dies ist eine Schritt-für-Schritt-Anleitung für einen einfachen Workflow in de
 
 ## Schritt 1: Lokales Repository einrichten
 
-1. Erstelle/Initialisiere mit dem Befehl `git init` ein lokals Repository
+1. Erstelle/Initialisiere mit dem Befehl `git init` ein lokals Repository in deinem Projektordner
 
 ## Schritt 2: Arbeit durchführen/Änderungen vornehmen 
 
