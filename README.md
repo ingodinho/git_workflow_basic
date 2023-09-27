@@ -28,4 +28,14 @@ Die folgenden Schritte werden auf der Seite von Github nach Erstellung eines Rep
 Nachdem Schritt 4 einmal erfolgreich durchgeführt worden ist, wiederholen wir bei nachfolgenden Änderungen nur noch Folgendes:
 
 1. Die Punkte wie in Schritt 2 angegeben.
-2. Die neuesten Änderungen wieder hochladen: `git push` oder in Langform `git push orgin main` 
+2. Die neuesten Änderungen wieder hochladen: `git push` oder in Langform `git push orgin main`
+
+## Schritt 6: Veröffentlichen einer Seite
+
+1. Gehe in deinem Repository auf den Tab "Settings".
+2. Klicke links in der Menüleiste (Code and Automation) auf "Pages".
+3. Bei "Build and deployment", sollte "Source" ausgewählt sein.
+4. Wähle dann deinen branch aus. (Ist in der Regel main.)
+5. Klicke auf "Save".
+6. Nun kann es ein paar Minuten dauern, bis oben auf der Seite "Your site is life..." erscheint.
+7. Der Link führt dich auf die deployte Seite. 
